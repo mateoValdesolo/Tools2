@@ -167,3 +167,22 @@ JFrog Artifactory es la solución única para alojar y administrar todos los art
 Nexus de Sonatype es un administrador de repositorio que organiza, almacena y distribuye los artefactos necesarios para el desarrollo. Con Nexus, los desarrolladores pueden controlar completamente el acceso y la implementación de cada artefacto en una organización desde una única ubicación, lo que facilita la distribución del software.
 [Link](https://www.sonatype.com/products/sonatype-nexus-repository)
 
+## Open Cells
+![Open Cells](opencells.svg){width="50" style="inline"}
+Open Cells es un Framework de JavaScript desarrollado por BBVA para crear aplicaciones de una sola página basadas en componentes web. Se basa en HTML, CSS y JavaScript estándar y proporciona un modelo de programación declarativo basado en componentes con componentes web en el centro. Este enfoque abarca la reutilización y la interoperabilidad, lo que ayuda a desarrollar eficientemente interfaces de usuario de cualquier complejidad.
+[Link](https://www.opencells.dev/)
+
+## Lombok
+![Lombok](lombok.png){width="50" style="inline"}
+Project Lombok es una biblioteca de Java que se conecta automáticamente a su editor y crea herramientas, dándole vida a su Java.
+[Link](https://projectlombok.org/)
+
+## MockServer
+MockServer permite mockear fácilmente cualquier sistema con el que se integre a través de HTTP o HTTPS.
+[Link](https://www.mock-server.com/)
+
+## Kubernetes
+![Kubernetes](kubernetes.svg){width="50" style="inline"}
+Kubernetes es una plataforma portable y extensible de código abierto para administrar cargas de trabajo y servicios. Kubernetes facilita la automatización y la configuración declarativa. Tiene un ecosistema grande y en rápido crecimiento.
+[Link](https://kubernetes.io/es/)
+
