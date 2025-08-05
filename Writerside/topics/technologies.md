@@ -186,3 +186,8 @@ MockServer permite mockear fácilmente cualquier sistema con el que se integre a
 Kubernetes es una plataforma portable y extensible de código abierto para administrar cargas de trabajo y servicios. Kubernetes facilita la automatización y la configuración declarativa. Tiene un ecosistema grande y en rápido crecimiento.
 [Link](https://kubernetes.io/es/)
 
+## jOOQ
+![jOOQ](jOOQ.png){width="50" style="inline"}
+jOOQ Object Oriented Querying, comúnmente conocido como jOOQ, es una biblioteca de software ligera de mapeo de bases de datos en Java que implementa el patrón de registro activo.
+[Link](https://www.jooq.org/)
+

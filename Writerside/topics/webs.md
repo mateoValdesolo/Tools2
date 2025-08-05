@@ -104,10 +104,7 @@ freeCodeCamp es una comunidad de personas de todo el mundo que están aprendiend
 Esta aplicación está diseñada para ayudar a los principiantes a manejar los poderosos conceptos que hay detrás del trabajo con ramas (branches) en Git. Esperamos que disfrutes la aplicación y tal vez incluso ¡que aprendas algo!
 [Link](https://learngitbranching.js.org/)
 
-
-
-
-
-
-
-
+## Netlify
+![Netlify](netlify.png){width="50" style="inline"}
+Netlify es una empresa de computación en la nube remota que ofrece una plataforma de desarrollo que incluye servicios backend de creación, implementación y sin servidor para aplicaciones web y sitios web dinámicos.
+[Link](https://www.netlify.com/)
