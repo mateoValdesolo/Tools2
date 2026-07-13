@@ -24,3 +24,17 @@ Meta AI, la asistente de inteligencia artificial de la compañía dueña de What
 ![Phind](phind.png){width="50" style="inline"}
 Phind es un motor de respuestas inteligente para desarrolladores. Centrado en ayudarlo a resolver problemas desafiantes, Phind lo lleva de una idea a un producto funcional.
 [Link](https://www.phind.com/)
+
+## Stitch
+Stitch es una herramienta de Google que utiliza inteligencia artificial para diseñar interfaces de usuario y generar el código frontend correspondiente a partir de descripciones en lenguaje natural, agilizando el paso del concepto al diseño.
+[Link](https://stitch.withgoogle.com/)
+
+## Higgsfield
+![Higgsfield](higgsfield.png){width="50" style="inline"}
+Higgsfield es una plataforma de generación de video con inteligencia artificial enfocada en crear videos explicativos claros y atractivos a partir de indicaciones, con biblioteca de contenidos y funciones de comunidad.
+[Link](https://higgsfield.ai/explainer)
+
+## Motion
+![Motion](motion.png){width="50" style="inline"}
+Motion es un agente de IA que convierte indicaciones de texto en videos de motion graphics terminados. Gestiona investigación, diseño, animación, voz en off y edición en un solo lugar para crear videos de lanzamiento, demos de producto y explicativos a partir de un breve brief.
+[Link](https://motion.so/)

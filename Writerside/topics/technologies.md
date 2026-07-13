@@ -186,3 +186,17 @@ MockServer permite mockear fácilmente cualquier sistema con el que se integre a
 Kubernetes es una plataforma portable y extensible de código abierto para administrar cargas de trabajo y servicios. Kubernetes facilita la automatización y la configuración declarativa. Tiene un ecosistema grande y en rápido crecimiento.
 [Link](https://kubernetes.io/es/)
 
+## Supabase
+![Supabase](supabase.svg){width="50" style="inline"}
+Supabase es una alternativa de código abierto a Firebase que ofrece un backend completo basado en PostgreSQL. Proporciona base de datos, autenticación, almacenamiento de archivos, APIs generadas automáticamente y suscripciones en tiempo real, permitiendo a los desarrolladores crear aplicaciones sin necesidad de gestionar la infraestructura del servidor.
+[Link](https://supabase.com/)
+
+## Anime.js
+Anime.js es una biblioteca de animación de JavaScript ligera y potente. Funciona con propiedades CSS, transformaciones, SVG, atributos del DOM y objetos JavaScript, ofreciendo una API sencilla para crear animaciones complejas y sincronizadas.
+[Link](https://animejs.com/)
+
+## GSAP
+![GSAP](gsap.svg){width="50" style="inline"}
+GSAP (GreenSock Animation Platform) es una biblioteca de animación de JavaScript robusta y de alto rendimiento para crear animaciones fluidas en la web. Permite animar prácticamente cualquier cosa (CSS, SVG, Canvas, WebGL) con gran precisión y compatibilidad entre navegadores.
+[Link](https://gsap.com/)
+

@@ -104,4 +104,9 @@ JFLAP es un paquete de herramientas gráficas que puede utilizarse como ayuda pa
 Oh My Posh es una herramienta que permite personalizar y mejorar la apariencia y funcionalidad de la línea de comandos en MacOs, Linux y Windows, brindando una experiencia más agradable y eficiente al trabajar en la terminal.
 [Link](https://ohmyposh.dev/)
 
+## Obsidian
+![Obsidian](obsidian.svg){width="50" style="inline"}
+Obsidian es una aplicación de toma de notas y base de conocimiento que trabaja sobre una carpeta local de archivos Markdown. Permite enlazar notas entre sí para construir una red de conocimiento personal, con vista de grafo, plugins y amplia personalización.
+[Link](https://obsidian.md/)
+
 
