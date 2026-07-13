@@ -22,5 +22,6 @@ GSD Core es un framework ligero de meta-prompting, ingeniería de contexto y des
 [Link](https://github.com/open-gsd/gsd-core)
 
 ## Graphify
+![Graphify](graphify.png){width="50" style="inline"}
 Graphify es una skill para asistentes de IA de código que construye grafos de conocimiento consultables y multimodales a partir de código, documentación, papers, imágenes y diagramas. Actúa como una capa de memoria del repositorio, permitiendo que el agente razone sobre la estructura y las relaciones del proyecto usando una fracción de los tokens.
 [Link](https://graphify.net/)

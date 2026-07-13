@@ -192,6 +192,7 @@ Supabase es una alternativa de código abierto a Firebase que ofrece un backend 
 [Link](https://supabase.com/)
 
 ## Anime.js
+![Anime.js](animejs.svg){width="50" style="inline"}
 Anime.js es una biblioteca de animación de JavaScript ligera y potente. Funciona con propiedades CSS, transformaciones, SVG, atributos del DOM y objetos JavaScript, ofreciendo una API sencilla para crear animaciones complejas y sincronizadas.
 [Link](https://animejs.com/)
 

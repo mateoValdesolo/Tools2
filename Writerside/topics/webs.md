@@ -110,6 +110,7 @@ Dribbble es una comunidad y plataforma de autopromoción para diseñadores, dond
 [Link](https://dribbble.com/)
 
 ## APILayer
+![APILayer](apilayer.png){width="50" style="inline"}
 APILayer es un marketplace y hub de APIs listas para usar que permite a los desarrolladores encontrar, conectar y gestionar APIs de terceros (datos, geolocalización, divisas, validación y más) desde un único lugar.
 [Link](https://apilayer.com/)
 
