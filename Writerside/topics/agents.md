@@ -39,3 +39,13 @@ AGENTS.md es un formato abierto y estándar que define un archivo dedicado para 
 ![OpenSpec](openspec.svg){width="50" style="inline"}
 OpenSpec es un framework ligero de desarrollo guiado por especificaciones que actúa como capa de planificación para los agentes de IA de código. Permite crear y mantener especificaciones junto al código, generar propuestas de cambio con sus tareas de implementación y colaborar en la planificación de funcionalidades a lo largo de varias sesiones, manteniendo los requisitos como documentación viva dentro del repositorio.
 [Link](https://openspec.dev/)
+
+## Gentle AI
+![Gentle AI](gentleai.png){width="50" style="inline"}
+Gentle AI es un configurador de ecosistema que potencia a los agentes de IA de código con memoria persistente, estructura de flujo de trabajo y herramientas integradas. Aporta memoria persistente, desarrollo guiado por especificaciones (SDD), skills curadas, servidores MCP, enrutamiento de modelos, una persona orientada a la enseñanza y revisión de código acotada para agentes como Claude Code, OpenCode y Cursor.
+[Link](https://github.com/Gentleman-Programming/gentle-ai)
+
+## OpenClaw
+![OpenClaw](openclaw.svg){width="50" style="inline"}
+OpenClaw es un agente de IA autónomo, open-source y self-hosted que conecta tus apps de mensajería (WhatsApp, Telegram, Slack, Discord, Signal y más) con un asistente de IA siempre disponible. A diferencia de un chatbot común, puede ejecutar comandos de shell, controlar el navegador, leer y escribir archivos, gestionar el calendario y enviar correos, todo disparado desde un mensaje de texto.
+[Link](https://openclaw.ai/)

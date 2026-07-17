@@ -38,3 +38,8 @@ Higgsfield es una plataforma de generación de video con inteligencia artificial
 ![Motion](motion.png){width="50" style="inline"}
 Motion es un agente de IA que convierte indicaciones de texto en videos de motion graphics terminados. Gestiona investigación, diseño, animación, voz en off y edición en un solo lugar para crear videos de lanzamiento, demos de producto y explicativos a partir de un breve brief.
 [Link](https://motion.so/)
+
+## Kimi
+![Kimi](kimi.png){width="50" style="inline"}
+Kimi es un asistente de inteligencia artificial desarrollado por Moonshot AI, especializado en tareas de programación con agentes (agentic coding) y trabajo del conocimiento. Ofrece chat, plugins, tareas programadas y productos dedicados para trabajo y código.
+[Link](https://www.kimi.com/)
