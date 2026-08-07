@@ -109,4 +109,9 @@ Oh My Posh es una herramienta que permite personalizar y mejorar la apariencia y
 Obsidian es una aplicación de toma de notas y base de conocimiento que trabaja sobre una carpeta local de archivos Markdown. Permite enlazar notas entre sí para construir una red de conocimiento personal, con vista de grafo, plugins y amplia personalización.
 [Link](https://obsidian.md/)
 
+## LM Studio
+![LM Studio](lmstudio.png){width="50" style="inline"}
+LM Studio es una aplicación de escritorio para descargar y ejecutar modelos de lenguaje (LLMs) de forma local en tu propia máquina, sin conexión y sin depender de servicios en la nube. Ofrece una interfaz de chat, un servidor local compatible con la API de OpenAI y soporte para modelos en formato GGUF y MLX.
+[Link](https://lmstudio.ai/)
+
 
