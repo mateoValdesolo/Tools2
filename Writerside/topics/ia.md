@@ -43,3 +43,8 @@ Motion es un agente de IA que convierte indicaciones de texto en videos de motio
 ![Kimi](kimi.png){width="50" style="inline"}
 Kimi es un asistente de inteligencia artificial desarrollado por Moonshot AI, especializado en tareas de programación con agentes (agentic coding) y trabajo del conocimiento. Ofrece chat, plugins, tareas programadas y productos dedicados para trabajo y código.
 [Link](https://www.kimi.com/)
+
+## Dactyl
+![Dactyl](dactyl.svg){width="50" style="inline"}
+Dactyl es una plataforma de desarrollo asistido por IA para crear aplicaciones nativas de iOS y Android describiéndolas en lenguaje natural. Su agente escribe SwiftUI real que podés leer, editar y publicar, con una vista previa fiel en el navegador (mediante un renderizador de SwiftUI en WASM) y publicación directa a la App Store desde el editor.
+[Link](https://dactyl.dev/)

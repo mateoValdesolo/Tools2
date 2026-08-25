@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- The site favicon. favicon.ico + apple-touch-icon.png are the committed
+       raster fallbacks of this same art.
+
+       Same art as the Companion's app icon (builder/companion/icon/AppIcon.svg):
+       the indigo plate with the three right-aligned dactyl bars. The difference
+       is the plate is FULL-BLEED here. AppIcon.svg insets its squircle to 824pt
+       inside the 1024 canvas because macOS wants the outer margin for the icon
+       shadow; a favicon gets no such treatment, so that margin would just burn
+       pixels — at 16px the plate would land near 13px. The mark is scaled by
+       1024/824 to keep its weight relative to the visible plate identical to
+       the app icon's.
+
+       #818cf8→#4338ca is the web UI's indigo accent (#6366f1) as a gradient.
+       (Spelled without the CSS custom-property dashes on purpose: a double
+       hyphen is illegal inside an XML comment and the rasterizer rejects it.)
+       The plate means this reads on both light and dark tab strips, so there is
+       no prefers-color-scheme variant to keep in sync. -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#4338ca"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M230,0 H794 A230,230 0 0 1 1024,230 V794 A230,230 0 0 1 794,1024 H230 A230,230 0 0 1 0,794 V230 A230,230 0 0 1 230,0 Z"/>
+  <!-- Mark path copied verbatim from AppIcon.svg; the transform does the
+       824→1024 rescale about the canvas centre so the two stay comparable. -->
+  <g transform="translate(512,512) scale(1.242718) translate(-512,-512)">
+    <path fill="#ffffff" d="M452.49,282.00 H742.00 V401.02 H452.49 Z M622.98,452.49 H742.00 V571.51 H622.98 Z M282.00,622.98 H742.00 V742.00 H282.00 Z"/>
+  </g>
+</svg>
